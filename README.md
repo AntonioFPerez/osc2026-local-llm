@@ -8,9 +8,7 @@ This repository contains the complete Jupyter notebook from the session, showing
 
 ## 🚀 Run Online
 
-Open and run the notebook directly in your browser using **Google Colab** (no installation required):
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioFPerez/osc2026-local-llm/blob/main/osc2026_running_and_finetuning_llms_locally.ipynb)
+Run the interactive notebook in your browser — no installation required:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioFPerez/osc2026-local-llm/blob/main/osc2026_running_and_finetuning_llms_locally.ipynb)
 
 <p align="center">
   <img src="figures/embedding_change_trajectories.png" width="700">
