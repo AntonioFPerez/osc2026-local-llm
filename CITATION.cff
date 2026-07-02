@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Running and Fine-Tuning a Large Language Model on Your Laptop"
+message: "If you use this notebook, please cite it as below."
+type: software
+authors:
+  - family-names: "Pérez Rodríguez"
+    given-names: "Antonio F."
+repository-code: "https://github.com/AntonioFPerez/osc2026-local-llm"
+url: "https://github.com/AntonioFPerez/osc2026-local-llm"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-07-02"
