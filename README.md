@@ -1,26 +1,32 @@
-# Running and Fine-Tuning Large Language Models Locally
+# Running and Fine-Tuning a Large Language Model on Your Laptop
 
 Notebook for my **OpenSouthCode 2026** talk.
 
-This repository contains the complete Jupyter notebook presented during the session, demonstrating how to run, explore, and fine-tune a GPT-2 language model locally using Python, PyTorch, and Hugging Face.
+This repository contains the complete Jupyter notebook from the session, showing how to run, understand, and fine-tune a GPT-2 language model locally using Python and the Hugging Face Transformers library.
+
+---
+
+## 🚀 Run Online
+
+Open and run the notebook directly in your browser using **Google Colab** (no installation required):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioFPerez/osc2026-local-llm/blob/main/osc2026_running_and_finetuning_llms_locally.ipynb)
 
 <p align="center">
-  <img src="figures/embedding_change_trajectories.png" width="850">
+  <img src="figures/embedding_change_trajectories.png" width="700">
 </p>
 
 ---
 
 ## Topics Covered
 
-- Setting up the required Python environment
-- Loading a pretrained GPT-2 language model
+- Setting up the Python environment
+- Loading a pretrained GPT-2 model
 - Understanding the GPT-2 transformer architecture
 - Exploring token embeddings
-- Running LLM inference
+- Running text generation (LLM inference)
 - Fine-tuning GPT-2 on a small dataset
-- Visualizing how embeddings evolve during fine-tuning
+- Visualizing embedding trajectories during fine-tuning
 - References and further reading
 
 ---
@@ -34,13 +40,7 @@ git clone git@github.com:AntonioFPerez/osc2026-local-llm.git
 cd osc2026-local-llm
 ```
 
-Then open the notebook using JupyterLab, Jupyter Notebook, or Visual Studio Code.
-
----
-
-## Running in Google Colab
-
-Click the **Open in Colab** button at the top of this page to open and run the notebook directly in your browser.
+Then open the notebook using **JupyterLab**, **Jupyter Notebook**, or **Visual Studio Code**.
 
 ---
 
