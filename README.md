@@ -2,7 +2,7 @@
 
 Notebook for my **OpenSouthCode 2026** talk.
 
-This repository contains the complete Jupyter notebook from the session, showing how to run, understand, and fine-tune a GPT-2 language model locally using Python and the Hugging Face Transformers library.
+This repository contains the complete Jupyter notebook from the session, showing how to run, understand, visualize, and fine-tune a GPT-2 language model locally using Python and the Hugging Face Transformers library.
 
 ---
 
